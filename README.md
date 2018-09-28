@@ -1,29 +1,17 @@
 # Books Recommendation for Physics
 
 ## 1 Mathematics
+## 2 General Physics
 
-### 1 Mathematical Analysis
-
-* Mathemtaical Analysis and the Computation of Mathematics -Werner Römisch, Thomas Zeugmann
-
-### 2 Algebra
-
-
-
-## 2 Physics
-
-### 1 General Physics
-
-* 新概念物理学(力学, 电磁学, 热学, 光学, 量子物理) - 赵凯华
+* 新概念物理学 - 赵凯华
 
 * The Feynman Physics Lectures on Physics - Richard Feynman
 
 * Fundamentals of Physics - Ramamurti Shankar
+## 3 Theoretical Physics
 
-### 2 Theoretical Physics
+## 4 Atom, Molecular, and Optics Physics
 
-### 3 Atom, Molecular, and Optics Physics
+## 5 Condensed Matter Physics
 
-### 4 Condensed Matter Physics
-
-### 5 Particle Physics and Astronomy
+## 6 Particle Physics and Astronomy
